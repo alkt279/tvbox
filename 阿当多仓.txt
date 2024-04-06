@@ -26,10 +26,7 @@
         },    
         
         
-    {
-      "sourceName": "多仓5",
-      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/VIP.txt"
-    },
+
     {
       "sourceName": "多仓6",
       "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/VIPP.txt"
