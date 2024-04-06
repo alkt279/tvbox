@@ -25,12 +25,7 @@
                 "sourceUrl":"https://jihulab.com/dlm104373422/333/-/raw/main/H5h2clAI_%E5%A4%87.txt"
         },    
         
-        
-
-    {
-      "sourceName": "多仓6",
-      "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/VIPP.txt"
-    },
+     
     {
       "sourceName": "❤【元老库】❤",
       "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/txtvv/txtv/main/ku/元老库.txt"
